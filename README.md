@@ -5,3 +5,7 @@ Project to 2014/2015 Artificial Intelligence course of Bachelors Degree in Compu
 ## Goals
 
 Implement AI algorithms for search in huge spaces using heuristics in a game specific context.
+
+## Project Group
+
+- https://github.com/carboned4
